@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 Mais um arquivo para mais uma branch!!!
+
