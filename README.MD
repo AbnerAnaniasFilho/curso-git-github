@@ -4,4 +4,6 @@ Um curso para aprender a trabalhar com versionamento de código e repositórios 
 
 Além disso, GitFlow e Visual Studio Code.
 
+----------------------------------------
+
 
