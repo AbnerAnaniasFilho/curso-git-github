@@ -4,6 +4,8 @@ Um curso para aprender a trabalhar com versionamento de código e repositórios 
 
 Além disso, GitFlow e Visual Studio Code.
 
+[Curso Git](https://youtube.com/@teomewhy)
+
 ----------------------------------------
 
 ## Fluxo de trabalho Git local
