@@ -6,6 +6,8 @@ Além disso, GitFlow e Visual Studio Code.
 
 [Curso Git](https://youtube.com/@teomewhy)
 
+[teomewhy.org](https://teomewhy.org/schedule)
+
 ----------------------------------------
 
 ## Fluxo de trabalho Git local
