@@ -1,8 +1,8 @@
 git init .            -> Cria um repo git na parta atual
-git status 	      -> Mostra o status do trabalho (de cada arquivo)
+git status 	          -> Mostra o status do trabalho (de cada arquivo)
 git add mone_arquivo  -> Adiciona arquivo para ser commitado
 git commit -m "msg"   -> Faz commit do que estava para ser comitado
-git log 	      -> Mostra todo histórico de commit 
+git log 	          -> Mostra todo histórico de commit 
 
 ## FLUXO DE TRABALHO
 
@@ -15,4 +15,3 @@ git log 	      -> Mostra todo histórico de commit
 7. git commit -m "mensagem diferente"
 8. git status 
 9. volta para o passo 3
-
